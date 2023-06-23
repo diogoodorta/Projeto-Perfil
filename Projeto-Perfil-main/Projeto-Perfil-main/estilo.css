@@ -1,0 +1,18 @@
+body{
+    background-color:#8B008B;
+}
+
+h1{
+font-size:40px;
+color:black;
+text-align:center;
+font-family: Verdana;  
+}
+
+#msg{
+font-size:30px;
+text-align:center;
+text-transform:uppercase;
+color:aqua;
+font-family:Helvetica;
+}
